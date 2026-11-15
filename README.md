@@ -1,5 +1,11 @@
 
 <div align="center">
+  <img src="./banner.png" alt="NO IDENTITY | Developer Banner" width="100%">
+</div>
+  
+
+
+<div align="center">
 
 # Hi, I'm X.
 
