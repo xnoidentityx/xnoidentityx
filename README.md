@@ -3,8 +3,6 @@
 
 <div align="center">
 
-### X | Second Awakening
-
 **Computer Systems Engineering Student**
 
 *Building my own path, one line of code at a time.*
