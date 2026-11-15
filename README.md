@@ -1,37 +1,46 @@
 
-# <div align="center">Welcome to My Digital Realm 🌌</div>
-
 <div align="center">
 
-**Computer Systems Engineering Student**
+# Hi, I'm X.
 
-*Building my own path, one line of code at a time.*
+### Computer Systems Engineering Student
+
+Focused on software development, technology, and continuous learning.
 
 </div>
 
 ---
 
-### 🖤 About Me
+### About Me
 
-- 🎓 Computer Systems Engineering student in Mexico.
-- 💻 Learning **Java, Python and C#**.
-- 🔐 Interested in **Artificial Intelligence & Cybersecurity**.
-- 🎮 Passionate about videogames, anime and technology.
-- 🌌 Currently working on improving my programming skills.
+- Computer Systems Engineering student based in Mexico.
+- Interested in software engineering, artificial intelligence, and cybersecurity.
+- Currently strengthening my programming and problem-solving skills.
+- Exploring new technologies and building practical projects.
 
-### ⚔️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-171321?style=for-the-badge&logo=openjdk&logoColor=8A2BE2)
-![Python](https://img.shields.io/badge/Python-171321?style=for-the-badge&logo=python&logoColor=8A2BE2)
-![C%23](https://img.shields.io/badge/C%23-171321?style=for-the-badge&logo=dotnet&logoColor=8A2BE2)
-![Git](https://img.shields.io/badge/Git-171321?style=for-the-badge&logo=git&logoColor=8A2BE2)
-![VS Code](https://img.shields.io/badge/VS_Code-171321?style=for-the-badge&logo=visualstudiocode&logoColor=8A2BE2)
+### Technologies & Tools
 
 <div align="center">
 
-*System Status: ONLINE 🟣*
+![Java](https://img.shields.io/badge/Java-171321?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/Python-171321?style=for-the-badge&logo=python&logoColor=A78BFA)
+![C%23](https://img.shields.io/badge/C%23-171321?style=for-the-badge&logo=dotnet&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-171321?style=for-the-badge&logo=git&logoColor=A78BFA)
+![VS Code](https://img.shields.io/badge/VS_Code-171321?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA)
 
-**The journey has just begun.**
+</div>
+
+---
+
+### Areas of Interest
+
+`Software Development` · `Artificial Intelligence` · `Cybersecurity`
+
+---
+
+<div align="center">
+
+*Learning. Building. Improving.*
 
 </div>
   
