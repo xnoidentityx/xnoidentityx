@@ -32,6 +32,16 @@ Focused on software development, technology, and continuous learning.
 
 </div>
 
+
+<h3 align="center">GitHub Activity</h3>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=xnoidentityx&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+  />
+</div>
+
 ---
 
 ### Areas of Interest
