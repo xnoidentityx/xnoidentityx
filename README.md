@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xnoidentityx/xnoidentityx/main/banner.png" alt="NO IDENTITY" width="100%">
-</p>
+![NO IDENTITY](banner.png)
+
 
 <div align="center">
 
