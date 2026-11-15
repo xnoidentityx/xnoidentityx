@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="./banner.png" alt="NO IDENTITY | Developer Banner" width="100%">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xnoidentityx/xnoidentityx/main/banner.png" alt="NO IDENTITY" width="100%">
+</p>
 
 <div align="center">
 
